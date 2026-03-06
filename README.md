@@ -7,7 +7,7 @@
 Hola!! 👋<br>
 Me presento!!
 <br>
-Me llamo Manuel Alberto Según López y me dedico profesionalmente al mundo del desarrollo de SAP.<br>Aquí, podrás encontrar diversos proyectos en distintas tecnologías.<br>También, dispongo de repositorios privados que contienen proyectos interesantes. <br>
+Me llamo Manuel Alberto Según López y me dedico profesionalmente al mundo del desarrollo en SAP.<br>Aquí, podrás encontrar diversos proyectos en distintas tecnologías.<br>También, dispongo de repositorios privados que contienen proyectos interesantes. <br>
 Si deseas ver los repositorios privados, ponte en contacto conmigo por las redes sociales.<br>
 Un saludo!!
 
